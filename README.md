@@ -4,8 +4,6 @@ I mainly work on **AI tooling**, **agent workflows**, **model access layers**, a
 
 What I care about is not just calling a single model, but building systems and interfaces around modern LLM capabilities that are **more stable, manageable, and production-ready**.
 
-**Email:** 8286286@gmail.com
-
 ## Tech stack
 
 Technologies and components I use most often:
